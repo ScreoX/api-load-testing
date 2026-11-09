@@ -1,0 +1,7 @@
+tool,users,duration_seconds,requests,rps,average_ms,p95_ms,error_rate_percent
+JMeter,5,70,1595,22.79,2.755,4,0.00
+JMeter,15,70,4776,68.23,1.748,4,0.00
+JMeter,30,70,9508,135.83,2.162,5,0.00
+Gatling,5,70,1597,22.81,2.000,4,0.00
+Gatling,15,70,4819,68.84,2.000,4,0.00
+Gatling,30,70,9612,137.31,2.000,5,0.00

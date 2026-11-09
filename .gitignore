@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+.tools/
+.run/
+gatling/target/
+*.log
+!results/**/simulation.log

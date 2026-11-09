@@ -1,0 +1,34 @@
+{
+  "GET /team/get" : {
+    "transaction" : "GET /team/get",
+    "sampleCount" : 9508,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2.1623895666806896,
+    "medianResTime" : 1.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 211.0,
+    "pct1ResTime" : 3.0,
+    "pct2ResTime" : 5.0,
+    "pct3ResTime" : 12.0,
+    "throughput" : 136.3056411726758,
+    "receivedKBytesPerSec" : 50.18283859579959,
+    "sentKBytesPerSec" : 23.16131012113827
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 9508,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2.1623895666806896,
+    "medianResTime" : 1.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 211.0,
+    "pct1ResTime" : 3.0,
+    "pct2ResTime" : 5.0,
+    "pct3ResTime" : 12.0,
+    "throughput" : 136.3056411726758,
+    "receivedKBytesPerSec" : 50.18283859579959,
+    "sentKBytesPerSec" : 23.16131012113827
+  }
+}

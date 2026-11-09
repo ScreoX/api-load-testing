@@ -1,0 +1,3 @@
+[submodule "service/pr-service"]
+	path = service/pr-service
+	url = https://github.com/ScreoX/pr-service.git
